@@ -16,11 +16,11 @@ policy trained on that same CPU scores **−0.58**. 119 tests, seeded and reprod
 
 Python server and a browser table, 39 tests. [Live table](http://jensen-shifted.tun.ply.gg:7251).
 
-**Golf** — six-card Golf, nine holes
+**[golf](https://github.com/dustin5551212/golf)** — six-card Golf, nine holes
 
-JavaScript reference implementation, plus a Python port kept honest by a parity fixture that
-generates its expectations from the JS source. 53 tests.
-[Live table](http://domination-grind.tun.ply.gg:53177).
+Python port of a JavaScript original I wrote first, held to it by a parity fixture generated
+from that original's real output — 58 tests, including a byte-equal state comparison after 302
+scripted actions. [Live table](http://domination-grind.tun.ply.gg:53177).
 
 ## How I work
 
