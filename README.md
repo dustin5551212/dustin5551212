@@ -3,6 +3,9 @@
 I build small AI systems end to end — engine, benchmark, tests, deployment — and publish the
 numbers, including the experiments that lost.
 
+**[dustin5551212.github.io](https://dustin5551212.github.io)** — the longer versions: what each
+project measured, and the two places the benchmark lied to me.
+
 ## Projects
 
 **[five-hundred-ai](https://github.com/dustin5551212/five-hundred-ai)** — 45-card 500, in Python
