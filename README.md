@@ -12,7 +12,7 @@ project measured, and the two places the benchmark lied to me.
 
 Three agents measured against each other on the same paired deals. Monte Carlo search beats the
 hand-tuned CPU by **+0.98 tricks per deal** (95% CI 0.83–1.13) at 24 worlds; a behaviour-cloned
-policy trained on that same CPU scores **−0.58**. 119 tests, seeded and reproducible.
+policy trained on that same CPU scores **−0.45**. 119 tests, seeded and reproducible.
 [Play it](http://malls-mpegs.tun.ply.gg:28879/?ai=1) — every move there is the search agent's.
 
 **[kings-corner](https://github.com/dustin5551212/kings-corner)** — Bicycle's rules, two to four players
