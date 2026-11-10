@@ -17,7 +17,7 @@ policy trained on that same CPU scores **−0.45**. 119 tests, seeded and reprod
 
 **[kings-corner](https://github.com/dustin5551212/kings-corner)** — Bicycle's rules, two to four players
 
-Python server and a browser table, 39 tests. [Live table](http://jensen-shifted.tun.ply.gg:7251).
+Python server and a browser table, 48 tests. [Live table](http://jensen-shifted.tun.ply.gg:7251).
 
 **[golf](https://github.com/dustin5551212/golf)** — six-card Golf, nine holes
 
